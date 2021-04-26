@@ -1,2 +1,2 @@
 # data-analysis
-my projects on data analysis in fwd course in udacity
+projects on data analysis using python and its modules
